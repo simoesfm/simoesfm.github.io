@@ -1,9 +1,3 @@
----
-layout: page
-title: "Cursos"
-permalink: /cursos/
----
-
 # Cursos Oferecidos
 
 ## Matemática 6º Ano CMBH 2024
