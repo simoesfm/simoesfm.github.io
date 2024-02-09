@@ -6,7 +6,7 @@ Bem-vindos ao curso de Matemática para o 6º ano do Colégio Militar de Belo Ho
 
 Este curso abordará os fundamentos da matemática necessários para desenvolver habilidades analíticas e resolver problemas complexos. Vamos explorar os seguintes tópicos:
 
-- Números e operações
+- [Números e operações](numeop.md)
 - Frações e decimais
 - Geometria básica
 - Introdução à álgebra
